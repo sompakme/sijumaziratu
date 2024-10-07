@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sijumaziratu.pages.dev/sitemap.xml
